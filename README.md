@@ -28,7 +28,6 @@ The dataset includes multiple relational tables such as:
 - `data/raw/` → original CSV files
 - `data/processed/` → processed analytical datasets
 - `notebooks/` → all analysis and machine learning notebooks
-- `images/` → exported plots for GitHub
 - `README.md` → project summary
 
 ## Notebook Flow
